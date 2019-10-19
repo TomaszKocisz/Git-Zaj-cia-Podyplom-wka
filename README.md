@@ -1,2 +1,2 @@
-# Git-Zaj-cia-Podyplom-wka
+# Git-Zajecia-Podyplomowka
 Podyplomówka GIT
